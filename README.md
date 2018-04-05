@@ -27,11 +27,11 @@ is used.
 ## Screenshots
 Elements table and single element widget:
 
-![Element Table](https://github.com/Gamin03/PeriodTable/raw/master/screenshot1.jpg)
+![](https://github.com/Gamin03/PeriodTable/raw/master/screenshots1.JPG)
 
 Nuclides talbe and single nucclide widget:
 
-![Nuclide Table](https://github.com/Gamin03/PeriodTable/raw/master//screenshot2.jpg)
+![](https://github.com/Gamin03/PeriodTable/raw/master/screenshots2.JPG)
 
 ## Thanks
 Thanks for your attention! I hope you find it useful.
