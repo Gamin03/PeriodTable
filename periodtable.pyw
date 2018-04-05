@@ -75,6 +75,8 @@ class MainForm(QDialog):
                     <p> Elements information source: 
                         <a href="https://en.wikipedia.org/wiki/Chemical_element/">Wikipedia/Chemical_element</a>.
                     <p> Nuclides information source: 
+                        Audi, G. et al. (2012), "The Nubase2012 evaluation of nuclear properties",
+                        Chinese Physics C, Vol. 36, No. 12, 1157-1286.
                         <a href="http://iopscience.iop.org/article/10.1088/1674-1137/36/12/001/meta">Nubase2012</a>.
                     <p>Python {1} - Qt {2} - PyQt {3} on {4}""".format(
                     __version__, platform.python_version(),

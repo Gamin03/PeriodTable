@@ -1,7 +1,8 @@
 # PeriodTable
 
-Author: Jimin Ma
-E-mail: majm03@foxmail.com
+Author: *Jimin Ma*
+
+E-mail: *majm03@foxmail.com*
 
 ## Introduction
 This is a GUI code for elements and nuclides information with PyQt5.
@@ -22,3 +23,15 @@ Chinese Physics C, Vol. 36, No. 12, 1157-1286
 The XML format of Nubase2012 obtained with Nubase2xml.py from 
 [chart-of-nuclear-drawer](https://github.com/kmiernik/Chart-of-nuclides-drawer)
 is used.
+
+## Screenshots
+Elements table and single element widget:
+
+![Element Table](https://github.com/Gamin03/PeriodTable/raw/master/screenshot1.jpg)
+
+Nuclides talbe and single nucclide widget:
+
+![Nuclide Table](https://github.com/Gamin03/PeriodTable/raw/master//screenshot2.jpg)
+
+## Thanks
+Thanks for your attention! I hope you find it useful.
